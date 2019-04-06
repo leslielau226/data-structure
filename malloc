@@ -1,0 +1,5 @@
+double *ptd；
+ptd=(double*)malloc(two * sizeof(double)); //ptd指向一个double类型，  equal to arrey's frist adress
+                     //two multiply sizeof();
+                     
+
